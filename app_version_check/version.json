@@ -1,0 +1,9 @@
+{
+    "name":"In App Updatge Flutter Desktop App",
+    "version": 1.2,
+    "description":[
+        "Added New Screen",
+        "Minor Bug Fixed"
+    ],
+    "windows_file_name": "installers/windows/mysetup.exe"
+}
